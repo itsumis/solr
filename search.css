@@ -1,0 +1,17 @@
+h1{
+	font-size: 30px;
+	color: #000000;
+}
+
+body{
+	background: #e6e6fa;
+	font-family: sans-serif;
+}
+
+.square{
+	background: #ffffff;
+	width: 750px;
+	text-align: center;
+	border: 2px solid #b0c4de;
+	margin: 30px auto;
+}
